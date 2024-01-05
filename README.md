@@ -10,24 +10,29 @@ The goal is to accumulate points by uncovering gems hidden behind stones on the 
 
 # Game Rules:
 
-Each stone on the grid conceals either a gem or a bomb.
-Uncovering a gem adds points to your score.
-Revealing a bomb ends the game.
+- Each stone on the grid conceals either a gem or a bomb.
+  
+- Uncovering a gem adds points to your score.
+- 
+- Revealing a bomb ends the game.
 
 # Controls:
 
-Use the mouse to navigate the grid.
-Select a stone to reveal its content.
+- Use the mouse to navigate the grid.
+
+- Select a stone to reveal its content.
 
 # Scoring:
 
-Gems: Earn points for each gem uncovered.
-Bombs: Revealing a bomb ends the game, and the final score is displayed.
+- Gems: Earn points for each gem uncovered.
+  
+- Bombs: Revealing a bomb ends the game, and the final score is displayed.
 
 # Game Over:
 
-The game ends when a bomb is revealed.
-Your final score is shown
+- The game ends when a bomb is revealed.
+  
+- Your final score is shown
 
 # Installation
 
