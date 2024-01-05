@@ -13,7 +13,7 @@ The goal is to accumulate points by uncovering gems hidden behind stones on the 
 - Each stone on the grid conceals either a gem or a bomb.
   
 - Uncovering a gem adds points to your score.
-- 
+
 - Revealing a bomb ends the game.
 
 ## Controls:
