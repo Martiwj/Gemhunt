@@ -4,34 +4,34 @@ Gemhunt is a grid-based game where players explore a field of hidden gems behind
 
 # How to Play
 
-Objective:
+# Objective:
 
 The goal is to accumulate points by uncovering gems hidden behind stones on the grid.
 
-Game Rules:
+# Game Rules:
 
 Each stone on the grid conceals either a gem or a bomb.
 Uncovering a gem adds points to your score.
 Revealing a bomb ends the game.
 
-Controls:
+# Controls:
 
-Use arrow keys or a designated input method to navigate the grid.
+Use the mouse to navigate the grid.
 Select a stone to reveal its content.
 
-Scoring:
+# Scoring:
 
 Gems: Earn points for each gem uncovered.
 Bombs: Revealing a bomb ends the game, and the final score is displayed.
 
-Game Over:
+# Game Over:
 
 The game ends when a bomb is revealed.
 Your final score is shown
 
 # Installation
 
-git clone https://github.com/Martiwj/Gemhunt.git
+-git clone https://github.com/Martiwj/Gemhunt.git
 
 
 # Run the game
