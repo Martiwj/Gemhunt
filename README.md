@@ -37,7 +37,9 @@ Your final score is shown
 # Run the game
 
 Compile all Java source files using the command:
+
 javac *.java
 
 then run the main using the command: 
+
 java main
