@@ -31,15 +31,15 @@ Your final score is shown
 
 # Installation
 
--git clone https://github.com/Martiwj/Gemhunt.git
+- git clone https://github.com/Martiwj/Gemhunt.git
 
 
 # Run the game
 
 Compile all Java source files using the command:
 
-javac *.java
+- javac *.java
 
 then run the main using the command: 
 
-java main
+- java Main
